@@ -2,28 +2,20 @@
     "sanciones": [
         {
             "idTorneo":1,
-            "fecha":1,
-            "piloto":"ZSRT_TioNano55",
-            "sancion":"+5 segundos",
-            "descripcion":"Se sanciona por haber hecho una cagada",
-            "gravedad":1
-        },
-        {
-            "idTorneo":1,
-            "fecha":1,
-            "piloto":"ZSRT_TioNano55",
-            "sancion":"+2 segundos",
-            "descripcion":"Se sanciona por haber hecho una cagada",
-            "gravedad":2
-        } ,
-        {
-            "idTorneo":1,
-            "fecha":1,
-            "piloto":"ZSRT_TioNano55",
-            "sancion":"DSQ",
-            "descripcion":"Se sanciona por haber hecho una cagada",
-            "gravedad":3
-        }    
+            "fechas": [
+                {
+                    "fecha":1,
+                    "sanciones":[
+                        {
+                            "piloto":"ZSRT_TioNano55",
+                            "sancion":"+5 segundos",
+                            "descripcion":"Se sanciona por haber hecho una cagada",
+                            "gravedad":1
+                        }
+                    ]
+                }
+            ]
+        }  
              
     ]
 }
