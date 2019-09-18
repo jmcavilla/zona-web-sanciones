@@ -13,6 +13,17 @@
                             "gravedad":1
                         }
                     ]
+                },
+                {
+                    "fecha":2,
+                    "sanciones":[
+                        {
+                            "piloto":"ZSRT_TioNano55",
+                            "sancion":"+5 segundos",
+                            "descripcion":"Se sanciona por haber hecho una cagada",
+                            "gravedad":1
+                        }
+                    ]
                 }
             ]
         }  
