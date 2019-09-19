@@ -14,9 +14,9 @@
                         },
                         {
                             "piloto":"ZSRT_MiJel1989",
-                            "sancion":"Apercibimiento",
+                            "sancion":"Apercibimiento + Advertencia",
                             "descripcion":"Mala salida de boxes",
-                            "gravedad":0
+                            "gravedad":1
                         },
                         {
                             "piloto":"ZSRT_pipe_ibanez",
@@ -26,9 +26,9 @@
                         },
                         {
                             "piloto":"ZSRT_pipe_ibanez",
-                            "sancion":"Apercibimiento",
+                            "sancion":"Apercibimiento + Advertencia",
                             "descripcion":"Mala salida de boxes",
-                            "gravedad":0
+                            "gravedad":1
                         },
                         {
                             "piloto":"GTCL_zudo ",
@@ -38,9 +38,9 @@
                         },
                         {
                             "piloto":"GTCL_zudo ",
-                            "sancion":"Apercibimiento",
+                            "sancion":"Apercibimiento + Advertencia",
                             "descripcion":"Mala salida de boxes",
-                            "gravedad":0
+                            "gravedad":1
                         },
                         {
                             "piloto":"ZSRT_Efrain ",
@@ -50,9 +50,9 @@
                         },
                         {
                             "piloto":"ZSRT_Efrain ",
-                            "sancion":"Apercibimiento",
+                            "sancion":"Apercibimiento + Advertencia",
                             "descripcion":"Mala salida de boxes",
-                            "gravedad":0
+                            "gravedad":1
                         },
                         {
                             "piloto":"UsLucas2 ",
