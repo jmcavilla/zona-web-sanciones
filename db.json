@@ -7,21 +7,65 @@
                     "fecha":1,
                     "sanciones":[
                         {
-                            "piloto":"ZSRT_TioNano55",
-                            "sancion":"+5 segundos",
-                            "descripcion":"Se sanciona por haber hecho una cagada",
-                            "gravedad":1
-                        }
-                    ]
-                },
-                {
-                    "fecha":2,
-                    "sanciones":[
+                            "piloto":"ZSRT_MiJel1989",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
                         {
-                            "piloto":"ZSRT_TioNano55",
-                            "sancion":"+5 segundos",
-                            "descripcion":"Se sanciona por haber hecho una cagada",
-                            "gravedad":1
+                            "piloto":"ZSRT_MiJel1989",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"ZSRT_pipe_ibanez",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"ZSRT_pipe_ibanez",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"GTCL_zudo ",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"GTCL_zudo ",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"ZSRT_Efrain ",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"ZSRT_Efrain ",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"UsLucas2 ",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
+                        }
+                        ,
+                        {
+                            "piloto":"mvracing_sr",
+                            "sancion":"Apercibimiento",
+                            "descripcion":"Mala salida de boxes",
+                            "gravedad":0
                         }
                     ]
                 }
