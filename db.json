@@ -68,6 +68,17 @@
                             "gravedad":0
                         }
                     ]
+                },
+                {
+                    "fecha":2,
+                    "sanciones":[
+                        {
+                            "piloto":"mvracing_sr",
+                            "sancion":"+1 Puesto",
+                            "descripcion":"Incidente en la curva 4 con ZSRT_MiJel1989",
+                            "gravedad":1
+                        }
+                    ]
                 }
             ]
         }  
