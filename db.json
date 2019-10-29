@@ -79,6 +79,71 @@
                             "gravedad":1
                         }
                     ]
+                },
+                {
+                    "fecha":3,
+                    "sanciones":[
+                        {
+                            "piloto":"Nicksepulveda19",
+                            "sancion":"Advertencia",
+                            "descripcion":"Incidente en la curva 1, Vuelta 2",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"Nicksepulveda19",
+                            "sancion":"+1 Puesto",
+                            "descripcion":"Incidente en la curva 3, Vuelta 2",
+                            "gravedad":1
+                        },
+                        {
+                            "piloto":"Nicksepulveda19",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en la curva 3, Vuelta 1",
+                            "gravedad":2
+                        },
+                        {
+                            "piloto":"Nicksepulveda19",
+                            "sancion":"+5 Segundos",
+                            "descripcion":"Mala salida de Boxes X2",
+                            "gravedad":1
+                        },
+                        {
+                            "piloto":"JOTANAC_",
+                            "sancion":"+2 Puestos",
+                            "descripcion":"Incidente en la ultima chicana, Vuelta 1",
+                            "gravedad":2
+                        },
+                        {
+                            "piloto":"JOTANAC_",
+                            "sancion":"+2 Segundos",
+                            "descripcion":"Mala salida de Boxes",
+                            "gravedad":0
+                        },
+                        {
+                            "piloto":"ZSRT_pipe_ibanez",
+                            "sancion":"+2 Puestos",
+                            "descripcion":"Incidente en la curva 3, Vuelta 2",
+                            "gravedad":2
+                        },
+                        {
+                            "piloto":"ZSRT_pipe_ibanez",
+                            "sancion":"+1 Puestos",
+                            "descripcion":"Incidente en la curva 3, Vuelta 2",
+                            "gravedad":1
+                        },
+                        {
+                            "piloto":"ZSRT_Efrain13",
+                            "sancion":"+1 Puesto",
+                            "descripcion":"Incidente vuelta 11 con YeezyMC77",
+                            "gravedad":1
+                        },
+                        {
+                            "piloto":"ZSRT_Efrain13",
+                            "sancion":"+5 Segundos",
+                            "descripcion":"Mala salida de Boxes X2",
+                            "gravedad":1
+                        }
+                    ]
                 }
             ]
         }  
