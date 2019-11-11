@@ -144,7 +144,18 @@
                             "gravedad":1
                         }
                     ]
-                }
+                },
+                {
+                    "fecha":4,
+                    "sanciones":[
+                        {
+                            "piloto":"ZSRT_TioNano55",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en curva Ascari con ZSRT_MiJel1989 y ZSRT_Efrain13",
+                            "gravedad":2
+                        }
+                    ]
+                },
             ]
         }  
              
