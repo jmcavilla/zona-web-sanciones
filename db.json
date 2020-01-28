@@ -176,6 +176,23 @@
                             "gravedad":1
                         }
                     ]
+                },
+                {
+                    "fecha":2,
+                    "sanciones":[
+                        {
+                            "piloto":"ESG_Zudo",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en pista con KR_JuniorD",
+                            "gravedad":1
+                        },
+                        {
+                            "piloto":"fran_vidal_",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en pista con KR_JuniorD",
+                            "gravedad":1
+                        }
+                    ]
                 }
             ]
         }    
