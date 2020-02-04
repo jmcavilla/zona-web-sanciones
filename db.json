@@ -193,6 +193,28 @@
                             "gravedad":1
                         }
                     ]
+                },
+                {
+                    "fecha":3,
+                    "sanciones":[
+                        {
+                            "piloto":"LATAM_Rodrigo118",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en pista con Dirty_Berdan",
+                            "gravedad":1
+                        }
+                    ]
+                },
+                {
+                    "fecha":4,
+                    "sanciones":[
+                        {
+                            "piloto":"LATAM_Rodrigo118",
+                            "sancion":"+2 Puesto",
+                            "descripcion":"Incidente en pista con Dirty_Berdan",
+                            "gravedad":1
+                        }
+                    ]
                 }
             ]
         }    
